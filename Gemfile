@@ -1,7 +1,5 @@
 source "https://rubygems.org"
 title: "test"
-bye_message: "Thx!"
-url: "https://MyMelodyUwU.github.io/"
 
 # Header settings
 source_code:
