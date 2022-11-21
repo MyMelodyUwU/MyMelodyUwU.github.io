@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 title: "test"
 bye_message: "Thx!"
-baseurl: "/about/"
 url: "https://MyMelodyUwU.github.io/"
 
 # Header settings
