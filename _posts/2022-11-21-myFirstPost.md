@@ -57,24 +57,13 @@ set colorcolumn=70
 set shiftwidth=4
 set scrolloff=10
 filetype on
-" VIMSCRIPT -------------------------------------------------------------- {{{
-
-" This will enable code folding.
-" Use the marker method of folding.
-augroup filetype_vim
-    autocmd!
-    autocmd FileType vim setlocal foldmethod=marker
-augroup END
-
-" More Vimscripts code goes here.
-
-" }}}
 ```
 
+### Hi
 
+Today, I also have learnt to setup my SSH keys on different devices
+this is a big example! I can now use a preferred IDE with my own settings,
+and I can push / deploy using WSL2
 
-
-
-
-
+Whoo hoo!
 
