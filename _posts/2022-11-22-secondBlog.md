@@ -67,6 +67,12 @@ Lastly, I have now put everything in my blog!
 
 Anyway, here is the code since all projects should be open source **insert Stallman noises**
 
+### What I aim todo next time:
+
+1) I aim to push towards a cloud environment
+2) I aim to learn to host to a new instance
+3) I aim to sleep
+
 ```
 # My aim is to:
 
