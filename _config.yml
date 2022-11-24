@@ -26,9 +26,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  MyMelodyUwU
 
 # Build settings
-remote_theme: pages-themes/midnight@v0.2.0
+theme: minima
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
