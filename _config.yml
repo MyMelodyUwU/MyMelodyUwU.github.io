@@ -21,15 +21,16 @@
 title: The Melody Blog!
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I love league of legends
+I love league of legends and Korean Fried Chicken!
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  MyMelodyUwU
 
 # Build settings
-remote_theme: pages-themes/midnight@v0.2.0
+theme: minima
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
