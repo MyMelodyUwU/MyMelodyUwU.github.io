@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learning the basics of Py and proper development!"
+title:  "Learning about File Names / Types + Scripting aspects / Flask!"
 date:   2022-11-24 12:17:27 +1100
 categories: jekyll update
 ---
