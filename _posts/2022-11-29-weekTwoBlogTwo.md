@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Keeping code clean and consistent when writing provides"
-date:   2022-11-28 12:17:27 +1100
+title:  "Keeping code clean and consistent when writing!"
+date:   2022-11-29 12:17:27 +1100
 categories: jekyll update
 ---
 
@@ -53,3 +53,7 @@ Finally, When I tried to debug and test my input from a text file, I accidently 
 ![](https://i.imgur.com/08bmRnr.png)
 
 ![](https://i.imgur.com/OLSWKSn.png)
+
+## Where is the code?
+
+[Here](https://github.com/MyMelodyUwU/weather_server.git)
