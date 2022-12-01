@@ -5,7 +5,6 @@ date:   2022-12-1 12:17:27 +1100
 categories: jekyll update
 ---
 
-
 ## Refactoring
 
 Adjustment of the code one by one to perfect the code / make more efficent / readable to avoid a big mess. Overtime, I think I have gotten better at this now that I am developing everyday. 
