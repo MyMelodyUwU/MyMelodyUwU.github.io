@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Data types Argh!!!!"
+title:  "Testing Driven Design + learning to play with inputs / outputs + finding relationships"
 date:   2022-12-6 12:17:27 +1100
 categories: jekyll update
 ---
-
-## Testing Driven Design + learning to play with inputs / outputs + finding relationships
 
 ## My main goal was to:
 
