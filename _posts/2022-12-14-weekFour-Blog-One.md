@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Starting my first TMUX run through!" 
-date:   2022-12-7 12:17:27 +1100
+date:   2022-12-14 12:17:27 +1100
 categories: jekyll update
 ---
 
