@@ -15,23 +15,21 @@ I have:
 
 Created an Aggregator and Monitor Functions that will take the CPU usage as of now and the Epoch time and it is now accessible to me by a webserver! 
 
-Finished Writing my assingment!
+Finished writing my assignment!
 
-I am about to:
+I have made some tentative goals for the 20th of Jan (Internship end)
 
-1) Print the data in a pretty HTML format
+## Project Stretch Goals
+
+1) Benchmark the instances and compare the specifications to other models (I.e. Compare Camera A against Camera B) 
+
+2) Retained messages / Multiple monitors cleaning retained 
 
 2) Learn extended SQLite Arguments other than SELECT and DROP
 
-3) Learn to package and bundle everything together to be put on docker
+4) Learn to create my EC2 instances, and have the code running!
 
-4) Find a home in gitlab to store the code
-
-5) Learn to create my EC2 instances, and have the code running!
-
-6) Learn to adjust the hosting instance aggregator to serve multiple monitors!
-
-7) Have the supervisor fill in the evaluation form (Due 20th Jan)
+- Add additional Resource Metrics of GPU Computer/Memory Usage
 
 ## What do I want todo this year
 
@@ -86,6 +84,10 @@ I am about to:
 3) Document better, by drawing better diagrams and mapping out end results
 4) Having TDD when i think of products. 
 5) Use ChatGPT to help develop more 
+6) Learning more abt Git -> Pull requests, merge conflicts, CI, etc. 
 
-## Discuessed things:
+![](https://i.imgur.com/ti5tfZf.png)
 
+I managed to print all columns of the table on the rendered HTML. 
+
+I am trying to backtrack and find what SQL statements are being printed in the HTML document
