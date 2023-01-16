@@ -14,78 +14,6 @@ categories: jekyll update
 5) When Permissions are not given when provided, could end up putting data records at risk 
 6) If roles are changed, there should be constant security followup on that. 
 
-## A big achievement by myself:
-
-Getting the timestamp and the hosts to append to the database 
-
-![](https://i.imgur.com/ficmgsz.png)
-
-Having multiple hosts!
-
-![](https://i.imgur.com/VAiG6Eo.png)
-
-Keeping the data overnight!
-
-![](https://i.imgur.com/ymzyXpe.png)
-
-printing the data to a web output
-
-![](https://i.imgur.com/eGval1n.png)
-
-Printing SQL statements nicely!
-
-![](https://i.imgur.com/aPdoTtX.png)
-
-![](https://i.imgur.com/X2N6UKd.png)
-
-**I am totally doing my work**
-
-## What is engineering
-
-Performance in our capability. 
-
-## Project
-
-On the same topic, resource / hostname / cpu
-
-Usage message + retained info type. 
-
-How does the aggregator know which type of emessage this is. 
-
-USage message vs info message
-
-write to database, but written to one table, the other written o a different table. 
-
-If the message changes, its indirect. 
-
-ensure no mistakes (type) | value is info or usage. 
-
-timestamp, s in epoch
-
-field -> host
-
-usage -> Busy
-
-type -> Int or string (Info vs usage.)
-
-## The next day:
-
-![](https://i.imgur.com/wwKyXNA.png)
-
-900KB of data here from last night! Ares has been working overnight to give me the cpu_usage of the system!
-
-## The goal: 
-
-The goal now is to have:
-
-1 Monitor over the weekend taking cpu_usage data!
-
-3 Aggregators -> Ares / Zeus / Arty
-
-Set Gitignore on database files
-
-Adjusting the data collection speed from 2s to 15 s 
-
 ## Whats wrong with the data:
 
 https://www.howtogeek.com/194642/understanding-the-load-average-on-linux-and-other-unix-like-systems/
@@ -104,21 +32,3 @@ For example, in a database table that contains sales data, rolling up the data w
 
 Rolling up data is often used in data analysis, reporting, and visualization, to provide summary information and insights that are easier to understand and act upon.
 
-
-## Final walkthrough!
-
-I managed to get a run through with the CEO of Silverpond to discuss about the 
-
-![](https://i.imgur.com/1Id6FTE.png)
-
-This is the current tentative webserver with data collected overnight!
-
-This data has now been stored in a master copy on the repository!
-
-![](https://i.imgur.com/R1LXXqB.png)
-
-spent the whole day on data structure and learning how to save data into a csv
-
-![](https://i.imgur.com/TD1Nv1n.png)
-
-i also managed to plot my data, which tmr i will  refactor it!
